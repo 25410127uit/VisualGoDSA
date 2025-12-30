@@ -16,6 +16,15 @@ JupyterLite is being tested against modern web browsers:
 
 - Firefox 90+
 - Chromium 89+
+jupyterlite-core
+
+jupyterlite-pyodide-kernel
+
+jupyterlab
+
+ipywidgets
+
+jupyterlab_widgets
 
 ## Deploy your JupyterLite website on GitHub Pages
 
